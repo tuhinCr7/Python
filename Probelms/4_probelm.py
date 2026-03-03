@@ -1,3 +1,5 @@
+# Find the greatest number among three numbers
+
 number = []
 for i in range(3):
     user_input = int(input(f'Enter {1+i}th number'))
