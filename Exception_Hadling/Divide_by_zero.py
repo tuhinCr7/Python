@@ -6,3 +6,5 @@ try:
     print(calculate(a, b))
 except ZeroDivisionError:
     print('Divisior can not be 0 ')  
+except ValueError:
+    print('Give numbers only ')    
