@@ -9,7 +9,7 @@ print(li)
 
 # let's insert something anything specific index
 
-li.insert(2,44)
+li.insert(2, 44)
 print(li)
 
 # let's remove anyhting
@@ -22,7 +22,7 @@ print(li)
 li.pop()
 print(li)
 
-# 
+#
 
 li.index(3)
 print(li)
@@ -37,7 +37,7 @@ print(li)
 li.reverse()
 print(li)
 
-#  let's sort by ascending order 
+#  let's sort by ascending order
 
 li.sort(reverse=True)
 print(li)
